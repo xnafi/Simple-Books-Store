@@ -1,10 +1,10 @@
 import { createBrowserRouter } from "react-router-dom";
 import ErrorPage from "./ErrorPage";
 import Root from "./Root";
-import Home from './components/Home'
-import About from './components/About'
-import Books from './components/Books'
-import BookDetails from './components/BookDetails'
+import Home from './Home'
+import About from './About'
+import Books from './Books'
+import BookDetails from './BookDetails'
 
 
 export const router = createBrowserRouter([
